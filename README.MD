@@ -1,3 +1,3 @@
 пора идти готовить щи борщи
-и ! [карбонару](pasta-karbonara.jpg)
+и ![карбонару](pasta-karbonara.jpg)
 

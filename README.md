@@ -5,4 +5,4 @@
   
 ![карбонару](pasta-karbonara.jpg)
 
-![карбонару](carbonara.png)
+![карбонару](/img/carbonara.png)

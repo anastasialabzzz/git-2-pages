@@ -3,6 +3,6 @@
 ### КАРБОНАРУ
 <p>
   
-![карбонару](pasta-karbonara.jpg)
+![карбонару](pasta-karbonara.jpg?raw=true)
 
-![карбонару](/img/carbonara.png)
+![карбонару](/img/carbonara.png?raw=true)
